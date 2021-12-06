@@ -22,3 +22,4 @@ override.tf.json
 # исключить файлы .terraformrc и terraform.rc
 .terraformrc
 terraform.rc
+-:
